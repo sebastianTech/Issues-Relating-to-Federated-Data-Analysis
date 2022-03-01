@@ -12,6 +12,7 @@ Terminology explained
 	Federated Learning
 	
 	Why is it needed?
+
 Issues relating to Federated data analysis
 Conclusion
 	Is Federated Analysis the Way Forward for Genomics?
